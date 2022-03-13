@@ -1,5 +1,5 @@
 # 🔐Get-hidden-Channel-ID-s-Script
-**It's a simple "script" that allows you to add all Discord Badges to your Account.**
+**It's a simple "script" that allows you to see all Hidden Channel ID'S (On a Server).**
 
 
 

@@ -1,4 +1,4 @@
-# 🔐Get-all-Badges-Exploit
+# 🔐Get-hidden-Channel-ID-s-Script
 **It's a simple "script" that allows you to add all Discord Badges to your Account.**
 
 
